@@ -7,4 +7,4 @@ description: "Great site about Jekyll on GH-Pages."
 github_username: anjuseetha
 
 # Build settings
-theme: tactile
+theme: jekyll-theme-midnight

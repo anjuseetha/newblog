@@ -1,0 +1,10 @@
+# Site settings
+title: Great New Blog Title
+author: Github user
+  name: Anju Pillai
+  email: anjuseetha@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+github_username: anjuseetha
+
+# Build settings
+theme: tactile
